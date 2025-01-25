@@ -1,11 +1,6 @@
 import { defineConfig } from 'vite';
  
  export default defineConfig({
-        resolve: {
-          alias: {
-            '@': '/src', // Example alias
-          },
-        },
 
     server: {
 
